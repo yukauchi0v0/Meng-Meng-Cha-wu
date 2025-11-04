@@ -11,7 +11,7 @@ const popularFoods = [
     englishName: "Ichigo Daifuku",
     description: "軟糯麻糬包裹新鮮草莓",
     price: "¥380",
-    image: "/ichigo-daifuku-strawberry-mochi-japanese-sweet.jpg",
+    image: "/草莓大福.png",
     badge: "人気",
     fullDescription:
       "日本經典和菓子，使用軟糯的白玉麻糬包裹整顆新鮮草莓與紅豆餡。一口咬下，草莓的酸甜與紅豆的香甜在口中完美融合，是最受歡迎的日式甜點。",
