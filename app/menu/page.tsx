@@ -22,7 +22,7 @@ const popularFoods = [
     englishName: "Matcha Roll Cake",
     description: "濃郁抹茶風味蛋糕",
     price: "¥420",
-    image: "/matcha-green-tea-roll-cake-japanese.jpg",
+    image: "/抹茶蛋糕卷.png",
     badge: "New",
     fullDescription:
       "使用京都宇治抹茶粉製作的蛋糕卷，搭配香濃的鮮奶油內餡。抹茶的微苦與奶油的香甜達到完美平衡，口感綿密細緻，是抹茶控的最愛。",
@@ -33,7 +33,7 @@ const popularFoods = [
     englishName: "Dorayaki",
     description: "鬆軟餅皮夾紅豆餡",
     price: "¥320",
-    image: "/dorayaki-japanese-red-bean-pancake.jpg",
+    image: "/銅鑼燒.png",
     fullDescription:
       "哆啦A夢最愛的甜點！兩片鬆軟的蜂蜜餅皮夾著香甜的紅豆餡，口感綿密不膩。每一口都能感受到傳統日式點心的溫暖與懷舊。",
     ingredients: ["蜂蜜餅皮", "紅豆餡", "蜂蜜", "雞蛋"],
@@ -43,7 +43,7 @@ const popularFoods = [
     englishName: "Sakura Mochi",
     description: "粉嫩櫻花風味麻糬",
     price: "¥360",
-    image: "/sakura-mochi-pink-cherry-blossom-japanese.jpg",
+    image: "/櫻花麻糬.png",
     badge: "限定",
     fullDescription:
       "春季限定！粉紅色的麻糬包裹著紅豆餡，外層裹著鹽漬櫻花葉。櫻花的清香與紅豆的甜美交織，是春天的浪漫滋味。",
@@ -54,7 +54,7 @@ const popularFoods = [
     englishName: "Matcha Tiramisu",
     description: "日式抹茶與義式經典結合",
     price: "¥480",
-    image: "/matcha-tiramisu-dessert.jpg",
+    image: "/抹茶提拉米蘇.png",
     fullDescription:
       "日式抹茶與義式提拉米蘇的完美結合，使用京都宇治抹茶粉，層層堆疊的馬斯卡彭起司與手指餅乾，帶來濃郁的抹茶香氣與綿密的口感。",
     ingredients: ["宇治抹茶粉", "馬斯卡彭起司", "手指餅乾", "鮮奶油"],
@@ -64,7 +64,7 @@ const popularFoods = [
     englishName: "Fruit Daifuku",
     description: "繽紛水果麻糬",
     price: "¥400",
-    image: "/mango-mille-crepe-cake.jpg",
+    image: "/水果大福.png",
     fullDescription:
       "使用當季新鮮水果製作的大福，軟糯的麻糬包裹著多汁的水果與白豆沙。每一顆都是不同的驚喜，色彩繽紛，是視覺與味覺的雙重享受。",
     ingredients: ["季節水果", "白玉麻糬", "白豆沙", "糖粉"],
@@ -74,7 +74,7 @@ const popularFoods = [
     englishName: "Matcha Ice Cream",
     description: "濃郁抹茶冰淇淋",
     price: "¥350",
-    image: "/honey-toast-with-ice-cream.jpg",
+    image: "/抹茶冰淇淋.png",
     fullDescription:
       "使用頂級宇治抹茶製作的冰淇淋，抹茶香氣濃郁，口感綿密細緻。微苦的抹茶與香甜的冰淇淋完美平衡，是夏日消暑的最佳選擇。",
     ingredients: ["宇治抹茶粉", "鮮奶油", "牛奶", "糖"],
@@ -84,7 +84,7 @@ const popularFoods = [
     englishName: "Japanese Pudding",
     description: "滑順焦糖布丁",
     price: "¥320",
-    image: "/caramel-pudding-dessert.jpg",
+    image: "/和風布丁.png",
     fullDescription:
       "日式焦糖布丁，使用新鮮雞蛋與鮮奶製作，口感滑順細緻。焦糖的微苦與布丁的香甜完美融合，是永不退流行的經典甜點。",
     ingredients: ["新鮮雞蛋", "鮮奶", "焦糖", "香草莢"],
