@@ -12,7 +12,7 @@ const drinks = [
     englishName: "Matcha Latte",
     description: "京都宇治抹茶，濃郁香醇",
     price: "¥580",
-    image: "/matcha-latte-in-cute-japanese-cup.jpg",
+    image: "/抹茶拿鐵.png",
     badge: "人気",
     fullDescription:
       "使用京都宇治的頂級抹茶粉，搭配綿密的奶泡，呈現出抹茶特有的苦甜滋味。每一口都能感受到日本茶道的精緻與優雅，是本店最受歡迎的招牌飲品。",
@@ -23,7 +23,7 @@ const drinks = [
     englishName: "Sakura Milk Tea",
     description: "春日限定，浪漫櫻花香",
     price: "¥620",
-    image: "/sakura-cherry-blossom-milk-tea-pink.jpg",
+    image: "/櫻花奶茶.png",
     badge: "New",
     fullDescription:
       "季節限定！使用鹽漬櫻花與紅茶調製而成，帶有淡淡的櫻花香氣與微鹹的口感。粉嫩的色澤如同春日盛開的櫻花，讓人彷彿置身於櫻花樹下。",
@@ -34,7 +34,7 @@ const drinks = [
     englishName: "Hojicha Latte",
     description: "香濃焙茶，溫暖療癒",
     price: "¥550",
-    image: "/hojicha-roasted-green-tea-latte.jpg",
+    image: "/焙茶歐蕾 (2).png",
     fullDescription:
       "使用日本焙茶製作，帶有獨特的烘焙香氣，口感溫潤不苦澀。搭配香濃鮮奶，是寒冷天氣的最佳選擇，讓人感到溫暖與放鬆。",
     ingredients: ["焙茶", "鮮奶", "黑糖", "奶泡"],
@@ -44,7 +44,7 @@ const drinks = [
     englishName: "Yuzu Honey Tea",
     description: "清新柚香，酸甜可口",
     price: "¥580",
-    image: "/yuzu-citrus-honey-tea-japanese.jpg",
+    image: "焙茶歐蕾.png",
     badge: "限定",
     fullDescription:
       "使用日本柚子與天然蜂蜜調製，酸甜適中的口感讓人一喝就愛上。富含維生素C，美味又健康，是女孩們的最愛。",
@@ -55,7 +55,7 @@ const drinks = [
     englishName: "Brown Sugar Boba Tea",
     description: "手工珍珠，香甜濃郁",
     price: "¥600",
-    image: "/brown-sugar-boba-milk-tea-japanese-style.jpg",
+    image: "/黑糖珍珠奶茶.png",
     fullDescription:
       "使用手工製作的黑糖珍珠，Q彈有嚼勁。搭配香濃的鮮奶與紅茶，黑糖的焦香與茶香完美融合，每一口都是滿滿的幸福感。",
     ingredients: ["手工黑糖珍珠", "紅茶", "鮮奶", "黑糖漿"],
@@ -65,7 +65,7 @@ const drinks = [
     englishName: "White Peach Oolong",
     description: "果香茶韻，清爽怡人",
     price: "¥590",
-    image: "/white-peach-oolong-tea-japanese.jpg",
+    image: "/白桃烏龍茶.png",
     fullDescription:
       "精選台灣高山烏龍茶搭配日本白桃果肉，茶香與果香交織，清爽不膩。白桃的香甜與烏龍茶的韻味完美結合，是夏日的最佳選擇。",
     ingredients: ["烏龍茶", "白桃果肉", "白桃糖漿", "冰塊"],
