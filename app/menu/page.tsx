@@ -183,7 +183,7 @@ export default function MenuPage() {
                       </div>
                     </div>
                     <img
-                      src="/japanese-desserts-and-tea-cute-presentation.jpg"
+                      src="/特色套餐蛋包飯.png"
                       alt="新品上市"
                       className="w-full aspect-square object-cover"
                     />
