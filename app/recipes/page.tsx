@@ -9,16 +9,16 @@ import { Button } from "@/components/ui/button"
 import Image from "next/image"
 
 const foodItems = [
-  { id: 1, name: "草莓大福", image: "/ichigo-daifuku-strawberry-mochi-japanese-sweet.jpg", category: "和菓子" },
-  { id: 2, name: "抹茶蛋糕", image: "/matcha-green-tea-roll-cake-japanese.jpg", category: "和菓子" },
-  { id: 3, name: "銅鑼燒", image: "/dorayaki-japanese-red-bean-pancake.jpg", category: "和菓子" },
-  { id: 4, name: "櫻花麻糬", image: "/sakura-mochi-pink-cherry-blossom-japanese.jpg", category: "和菓子" },
-  { id: 5, name: "抹茶提拉米蘇", image: "/matcha-tiramisu-dessert.jpg", category: "和菓子" },
-  { id: 6, name: "水果大福", image: "/mango-mille-crepe-cake.jpg", category: "和菓子" },
-  { id: 7, name: "抹茶拿鐵", image: "/matcha-latte-in-cute-japanese-cup.jpg", category: "茶飲" },
-  { id: 8, name: "櫻花奶茶", image: "/sakura-cherry-blossom-milk-tea-pink.jpg", category: "茶飲" },
-  { id: 9, name: "焙茶歐蕾", image: "/hojicha-roasted-green-tea-latte.jpg", category: "茶飲" },
-  { id: 10, name: "柚子蜂蜜茶", image: "/yuzu-citrus-honey-tea-japanese.jpg", category: "茶飲" },
+  { id: 1, name: "草莓大福", image: "/草莓大福.png", category: "和菓子" },
+  { id: 2, name: "抹茶蛋糕", image: "/抹茶蛋糕卷.png", category: "和菓子" },
+  { id: 3, name: "銅鑼燒", image: "/銅鑼燒.png", category: "和菓子" },
+  { id: 4, name: "櫻花麻糬", image: "/櫻花麻糬.png", category: "和菓子" },
+  { id: 5, name: "抹茶提拉米蘇", image: "/抹茶提拉米蘇.png", category: "和菓子" },
+  { id: 6, name: "水果大福", image: "/水果大福.png", category: "和菓子" },
+  { id: 7, name: "抹茶拿鐵", image: "/抹茶拿鐵.png", category: "茶飲" },
+  { id: 8, name: "櫻花奶茶", image: "/櫻花奶茶.png", category: "茶飲" },
+  { id: 9, name: "焙茶歐蕾", image: "/焙茶歐蕾 (2).png", category: "茶飲" },
+  { id: 10, name: "柚子蜂蜜茶", image: "焙茶歐蕾.png", category: "茶飲" },
 ]
 
 interface PlateItem {
