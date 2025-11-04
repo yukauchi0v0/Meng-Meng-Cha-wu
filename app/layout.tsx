@@ -16,8 +16,8 @@ const _pacifico = Pacifico({
 })
 
 export const metadata: Metadata = {
-  title: "涼夏飲品 Cool Summer Drinks ✨ Maid Cafe",
-  description: "歡迎光臨主人！一杯清爽，消暑一整天。",
+  title: "萌萌茶屋 Meng-Meng-Cha-wu ✨萌境茶敘",
+  description: "復古粉日式茶屋 一茶一坐享溫柔",
   generator: "v0.app",
 }
 
