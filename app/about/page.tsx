@@ -76,7 +76,7 @@ export default function AboutPage() {
           <div className="grid md:grid-cols-2 gap-6 items-center">
             <div className="cute-border rounded-3xl overflow-hidden">
               <img
-                src="/cute-japanese-tea-house-interior-with-matcha.jpg"
+                src="/老闆娘.jpg"
                 alt="店主"
                 className="w-full h-full object-cover"
               />
@@ -99,11 +99,11 @@ export default function AboutPage() {
                   </p>
 
                   <p className="text-sm text-foreground/80 leading-relaxed">
-                    自2015年創立以來，我們始終堅持使用日本進口的頂級茶葉與新鮮食材。每一杯茶飲、每一份和菓子都是用心手作，讓您品嚐到最道地的日式風味。
+                    自2025年創立以來，隨然是假的啦哈哈，但我們始終堅持使用北科進口的頂級茶葉與新鮮食材。每一杯茶飲、每一份和菓子都是用心手作，讓您品嚐到最道地的日式北科顆顆風味。
                   </p>
 
                   <p className="text-sm text-foreground/80 leading-relaxed">
-                    在這裡，我們不只是提供茶飲與甜點，更希望為您帶來日式的溫暖與療癒。就像在日本的喫茶店一樣，讓您在忙碌的生活中找到片刻的寧靜與放鬆
+                    在這裡，我們不只是提供茶飲與甜點，更希望為您帶來北科互動系的溫暖與療癒。就像在日本的喫茶店一樣，讓您在忙碌的生活中找到片刻的寧靜與放鬆
                     💕
                   </p>
 
