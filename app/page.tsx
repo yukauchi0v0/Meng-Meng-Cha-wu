@@ -231,10 +231,14 @@ const allRecipes = [
 
 const carouselImages = [
   "/cute-japanese-tea-house-interior-with-matcha.jpg",
-  "/japanese-tea-ceremony-cute-aesthetic.jpg",
+  "/黑白日式喝茶.jpg",
   "/kawaii-japanese-cafe-drinks-display.jpg",
+  "/城市女喝茶1.jpg",
   "/japanese-desserts-and-tea-cute-presentation.jpg",
-  "/cozy-japanese-tea-room-moe-aesthetic.jpg",
+  "/浮世繪日本店面.jpg",
+  "/復古咖啡式意圖.jpg",
+  "/城市女喝茶2.jpg",
+  "/美麗粉色樹葉.jpg",
 ]
 
 export default function Home() {
@@ -351,8 +355,8 @@ export default function Home() {
               <p className="text-xl md:text-2xl text-white mb-2 tracking-widest font-bold drop-shadow-lg">
                 MOE MOE TEA HOUSE
               </p>
-              <p className="text-lg text-white mb-3 font-medium drop-shadow-lg">歡迎光臨主人！✨</p>
-              <p className="text-base text-white mb-4 drop-shadow-lg">一杯日式好茶，療癒您的心靈 💖</p>
+              <p className="text-lg text-white mb-3 font-medium drop-shadow-lg">歡迎光臨呀！✨</p>
+              <p className="text-base text-white mb-4 drop-shadow-lg">復古粉日式茶屋 一茶一坐享溫柔💖</p>
               <div className="flex items-center justify-center gap-3 text-sm text-white drop-shadow-lg mb-4">
                 <Star className="w-4 h-4" />
                 <span>營業時間：11:00 - 21:00</span>
@@ -386,7 +390,7 @@ export default function Home() {
           </div>
           <p className="text-xs text-muted-foreground flex items-center justify-center gap-2">
             <Sparkles className="w-3 h-3 text-accent" />
-            用心沖泡每一杯 • 傳遞日式溫暖與療癒
+            用心沖泡每一杯 • 傳遞日式北科人溫暖與療癒
             <Sparkles className="w-3 h-3 text-accent" />
           </p>
         </div>
