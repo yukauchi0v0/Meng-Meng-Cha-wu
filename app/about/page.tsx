@@ -76,7 +76,7 @@ export default function AboutPage() {
           <div className="grid md:grid-cols-2 gap-6 items-center">
             <div className="cute-border rounded-3xl overflow-hidden">
               <img
-                src="/老闆娘.jpg"
+                src="/老闆娘草稿.png"
                 alt="店主"
                 className="w-full h-full object-cover"
               />
